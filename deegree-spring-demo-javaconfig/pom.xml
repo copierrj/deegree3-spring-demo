@@ -11,6 +11,7 @@
   
   <modules>
   	<module>deegree-spring-demo-javaconfig-jar</module>
+  	<module>deegree-spring-demo-javaconfig-workspace</module>
   </modules>
   
 </project>
