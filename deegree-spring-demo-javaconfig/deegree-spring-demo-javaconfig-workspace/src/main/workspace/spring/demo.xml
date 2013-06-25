@@ -1,0 +1,3 @@
+<BootstrapApplicationContextHolder xmlns="http://www.deegree.org/spring/bootstrap">
+    <ContextClass>org.deegree.spring.demo.Config</ContextClass>
+</BootstrapApplicationContextHolder>
