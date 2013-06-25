@@ -1,0 +1,3 @@
+<BootstrapApplicationContextHolder xmlns="http://www.deegree.org/spring/bootstrap">
+    <ContextConfigLocation>file:///C:/Users/copierrj.IDGIS-TEAM/deegree-workspaces/deegree-spring-test/spring/applicationContext.xml</ContextConfigLocation>
+</BootstrapApplicationContextHolder>

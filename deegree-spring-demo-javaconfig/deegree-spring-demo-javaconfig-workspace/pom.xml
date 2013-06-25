@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.deegree</groupId>
+  <artifactId>deegree-spring-demo-javaconfig-workspace</artifactId>
+  <packaging>deegree-workspace</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>deegree-spring-demo-javaconfig-workspace</name>
+  
+  <parent>
+  	<groupId>org.deegree</groupId>
+  	<artifactId>deegree-spring-demo-javaconfig</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  </parent>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>org.deegree</groupId>
+  		<artifactId>deegree-spring</artifactId>  		
+  	</dependency>
+  	<dependency>
+  		<groupId>org.springframework</groupId>
+  		<artifactId>spring-context</artifactId>  		
+  	</dependency>
+  	<dependency>
+  		<groupId>org.springframework</groupId>
+  		<artifactId>spring-jdbc</artifactId>  		
+  	</dependency>
+  </dependencies>
+    
+</project>
